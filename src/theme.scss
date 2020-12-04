@@ -1,0 +1,9 @@
+@import '~@angular/material/theming';
+@import url('https://fonts.googleapis.com/css2?family=Padauk&display=swap');
+@include mat-core();
+
+$my-typography: mat-typography-config(
+  $font-family: 'Padauk' !important
+);
+
+@include mat-core($my-typography);
