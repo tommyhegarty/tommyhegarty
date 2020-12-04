@@ -1,1 +1,1 @@
-### Tommy Hegarty's Github Repository! (of fun?)
+### Tommy Hegarty's Github Repository!
